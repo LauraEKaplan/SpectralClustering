@@ -32,11 +32,12 @@ Please keep all referenced images within the Images folder. You may use your own
 -----------------------------------------
 ## TOP LEVEL FILES
 This repository contains the following notebooks:  
+```
    1. generate_figures.ipynb : the primary execution file
    2. def_file_spectral.ipynb : spectral clustering-specific functions
    3. def_file_system.ipynb : a compliation of many hand-coded image processing functions
                         which may or may not come in handy.
-
+```
 generate_figures.ipynb is the primary file, and should be used to test images. generate_figures.ipynb imports definitions from both def_file_spectral.ipynb and def_file_system.ipynb
 
 -----------------------------------------
