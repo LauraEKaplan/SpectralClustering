@@ -21,10 +21,10 @@ as it pertains to image data.
 
 -----------------------------------------
 ## FOLDERS
-**
-> **Code :** contains all .ipynb notebook files
-> **Code -> Measurements : contains optional raw-data outputs from steps such as eigenvector calculations & cluster results.**
-> **Code -> Images :** folder where generate_figures references non-generated images
+
+**Code :** contains all .ipynb notebook files
+**Code -> Measurements : contains optional raw-data outputs from steps such as eigenvector calculations & cluster results.**
+**Code -> Images :** folder where generate_figures references non-generated images
 
 
 Please keep all referenced images within the Images folder. You may use your own images, but we do not recommend exceeding 150x150 resolution due to computation time. The current set of images is a selection corresponding to the publication results.
